@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    CMT | TEAM
+   𝗖𝗧𝗠
 </h1>
 
 <div align="center">
