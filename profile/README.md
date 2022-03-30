@@ -7,9 +7,3 @@
 - **[Soundcloud](https://soundcloud.com/user-106010459)** 
 - **[YouTube](https://www.youtube.com/channel/UCaq9yXXZzKj9Y0MMzxD3U2w)** 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matary-100&theme=midnight-purple&layout=compact&repo=.github-README.md)
-](https://github.com/Matary-100/.github-README.md)
-
-
-
